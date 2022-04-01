@@ -23,6 +23,7 @@ description: Describe our workshop
 
 # List of links in the navigation bar
 navbar-links:  
+  Home: 'index'
   Call: "cfp"
   # Dates: "#dates"
   Speakers: "speakers"
