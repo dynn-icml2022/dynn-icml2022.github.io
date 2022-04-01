@@ -1,110 +1,71 @@
 opening:
   event: "Opening Remarks"
-  start: "07:00 AM - 07:10 AM"
+  start: "09:00 AM - 09:15 AM"
   type: "General"
-Schaar:
-  event: "Schaar"
-  title: "Can machine learning revolutionize healthcare?
-Synthetic data may be the answer"
-  start: "07:10 AM - 07:40 AM"
+Huang:
+  event: "Huang"
+  title: "Placeholder presentation title"
+  start: "09:15 AM - 10:00 AM"
   type: "Invited"
 contrib0:
-  event: "Few-shot learning via tensor hallucination"
-  author: "Michalis ML Lazarou"
-  start: "07:40 AM - 07:50 AM"
+  event: "Placeholder title"
+  author: "Placeholder presenter"
+  start: "10:00 AM - 10:30 AM"
   type: "Contributed"
 contrib1:
-  event: "Leveraging Public Data for Practical Private Query Release"
-  author: "Terrance Liu"
-  start: "07:50 AM - 08:00 AM"
+  event: "Placeholder title"
+  author: "Placeholder presenter"
+  start: "10:30 AM - 11:00 AM"
   type: "Contributed"
-Kautz:
-  event: "Kautz"
-  title: "Generative Models for Image Synthesis"
-  start: "08:00 AM - 08:30 AM"
-  type: "Invited"
-sess1:
-  event: "Break + Posters"
-  start: "08:30 AM - 09:00 AM"
-  type: "Session"
-Yoon:
-  event: "Yoon"
-  title: "Differentially Private Synthetic Data Generations Using
-Generative Adversarial Networks"
-  start: "09:00 AM - 09.30 AM"
-  type: "Invited"  
 contrib2:
-  event: "Synthetic Data for Model selection"
-  author: "Alon Shoshan"
-  start: "09.30 AM - 09:40 AM"
+  event: "Placeholder title"
+  author: "Placeholder presenter"
+  start: "11:00 AM - 11:30 AM"
   type: "Contributed"
 contrib3:
-  event: "Ensembles of GANs for synthetic training data generation"
-  author: "Gabriel Eilertsen"
-  start: "09:40 AM - 09:50 AM"
+  event: "Placeholder title"
+  author: "Placeholder presenter"
+  start: "11:30 AM - 12:00 PM"
   type: "Contributed"
-Veloso:
-  event: "Veloso"
-  title: "Towards Financial Synthetic Data"
-  start: "09:50 AM - 10.20 AM"
-  type: "Invited"
-sess2:
-  event: "Break + Posters"
-  start: "10.20 AM - 10:50 AM"
-  type: "Session"
-Ermon:
-  event: "Ermon"
-  title: "Bias and generalization of deep generative models"
-  start: "10:50 AM - 11:20 AM"
-  type: "Invited"
-contrib4:
-  event: "FFPDG: Fast, Fair and Private Data Generation"
-  author: "Weijie Xu"
-  start: "11:20 AM - 11:30 AM"
-  type: "Contributed"
-contrib5:
-  event: "Overcoming Barriers to Data Sharing with Medical Image Generation: A Comprehensive Evaluation"
-  author: "August DuMont Schütte"
-  start: "11:30 AM - 11:40 AM"
-  type: "Contributed"
-contrib6:
-  event: "Imperfect ImaGANation: Implications of GANs Exacerbating Biases on Facial Data"
-  author: "Alberto Olmo"
-  start: "11:40 AM - 11:50 AM"
-  type: "Contributed"
-Dieleman:
-  event: "Dieleman"
-  title: "Generative Modeling for Music Generation"
-  start: "11:50 AM - 12.20 PM"
-  type: "Invited"  
-sess3:
-  event: "Break + Posters"
-  start: "12.20 PM - 12:50 PM"
-  type: "Session"
-Denton:
-  event: "Denton"
-  title: "Ethical Considerations of Generative AI"
-  start: "12:50 PM - 1:20 PM"
-  type: "Invited"
-panel2:
+panel1:
   event: ""
   speakers: "All invited speakers"
-  start: "1:20 PM - 2:20 PM"
+  start: "12:00 PM - 1:00 PM"
   type: "Panel"
+sess1:
+  event: "Lunch break"
+  start: "1.00 PM - 2:15 PM"
+  type: "Session"
+Sun:
+  event: "Sun"
+  title: "Placeholder presentation title"
+  start: "2:15 AM - 3:00 PM"
+  type: "Invited"
+sess2:
+  event: "Poster Session"
+  start: "3.00 PM - 4:00 PM"
+  type: "Session"
+contrib4:
+  event: "Placeholder title"
+  author: "Placeholder presenter"
+  start: "4:00 PM - 4:30 PM"
+  type: "Contributed"
+contrib5:
+  event: "Placeholder title"
+  author: "Placeholder presenter"
+  start: "4:30 PM - 5:00 PM"
+  type: "Contributed"
+contrib6:
+  event: "Placeholder title"
+  author: "Placeholder presenter"
+  start: "5:00 PM - 5:30 PM"
+  type: "Contributed"
+contrib6:
+  event: "Placeholder title"
+  author: "Placeholder presenter"
+  start: "5:30 PM - 6:00 PM"
+  type: "Contributed"
 closing:
-  event: "Closing Remarks and Award Ceremony"
-  start: "2:20 PM - 2:30 PM"
-  type: "General"  
-  
-# sess3:
-#   event: "Coffee Break + Posters"
-#   start: "2.30"
-#   type: "Session"
-# contrib7:
-#   event: "TBA"
-#   title: "TBA"
-#   start: "2:45"
-#   type: "Contributed"
-
-
-
+  event: "Mixer & Happy Hour"
+  start: "6:00 PM - 7:00 PM"
+  type: "General"

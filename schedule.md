@@ -1,19 +1,16 @@
 ---
 layout: page
-title: Synthetic Data Generation
-subtitle: Quality, Privacy, Bias
+title: Dynamic Neural Networks
+subtitle: ICML2022 Workshop
 use-site-title: true
 ---
 
 # Schedule
 
-#### Friday, May 7, 2021 
-#### All times are in PT 
+#### Friday, July 23, 2022 
+#### All times are in ET 
 
-#### [Link to the live sessions at ICLR website](https://iclr.cc/virtual/2021/workshop/2125). Note that registration to the ICLR main conference is required in order to access the website.
-
-<!-- #### Location: West 109 + 110, Area West Level 1 -->
-<!-- #### Live Video Stream: [link](https://XXX) -->
+#### [Link to the live sessions at ICML website](https://www.youtube.com). Note that registration to the ICML main conference is required in order to access the website.
 
 
 <div class="container">

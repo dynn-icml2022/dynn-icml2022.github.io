@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Synthetic Data Generation
-subtitle: Quality, Privacy, Bias
+title: Dynamic Neural Networks
+subtitle: ICML2022 Workshop
 use-site-title: true
 ---
 

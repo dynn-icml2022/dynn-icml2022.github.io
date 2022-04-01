@@ -1,35 +1,30 @@
-Aydore:
-  name: "Sergul Aydore"
-  url: "https://sergulaydore.github.io/"
-  affiliation: "AWS"
-  img: "Aydore.jpg"
-Kenthapadi:
-  name: "Krishnaram Kenthapadi"
-  url: "http://www-cs-students.stanford.edu/~kngk/"
-  affiliation: "AWS"
-  img: "Kenthapadi.jpg"
-Chen: 
-  name: "Haipeng Chen"
-  url: "https://haipeng-chen.github.io/"
-  affiliation: "Harvard University"
-  img: "Chen.jpg"
-Choi: 
-  name: "Edward Choi"
-  url: "https://mp2893.com/"
-  affiliation: "KAIST"
-  img: "Choi.jpg"
-Hayes:  
-  name: "Jamie Hayes"
-  url: "https://jamiehay.es/"
+Levorato:
+  name: "Marco Levorato"
+  url: "https://www.ics.uci.edu/~mlevorat/"
+  affiliation: "UC Irvine"
+  img: "levorato.jpg"
+Scardapane:
+  name: "Simone Scardapane"
+  url: "https://www.sscardapane.it"
+  affiliation: "Sapienza University (Rome)"
+  img: "scardapane.jpg"
+McDanel: 
+  name: "Bradley McDanel"
+  url: "https://bradmcdanel.com"
+  affiliation: "Franklin & Marshall College"
+  img: "mcdanel.jpg"
+Banino: 
+  name: "Andrea Banino"
+  url: "https://scholar.google.com/citations?hl=en&user=QD-sf3IAAAAJ/"
+  affiliation: "Google Brain"
+  img: "banino.jpg"
+Riquelme:  
+  name: "Carlos Riquelme"
+  url: "https://rikel.github.io/"
   affiliation: "DeepMind"
-  img: "Hayes.jpeg"
-Fritz:  
-  name: "Mario Fritz"
-  url: "https://cispa.saarland/group/fritz/"
-  affiliation: "CISPA Helmholtz Center for Information Security"
-  img: "Fritz.jpg"
-Cummings:  
-  name: "Rachel Cummings"
-  url: "https://sites.gatech.edu/rachel-cummings/"
-  affiliation: " Columbia University"
-  img: "Cummings.jpg"
+  img: "riquelme.png"
+Trzcinski:  
+  name: "Tomasz Trzcinski"
+  url: "https://ii.pw.edu.pl/~ttrzcins/"
+  affiliation: "Warsaw University of Technology & Jagiellonian University"
+  img: "trzcinski.jpg"

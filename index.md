@@ -1,34 +1,30 @@
 ---
 layout: page
-title: Synthetic Data Generation 
-subtitle: Quality, Privacy, Bias
+title: Dynamic Neural Networks
+subtitle: ICML2022 Workshop
 use-site-title: true
 ---
+
 <!--<div class="sharethis-inline-share-buttons"></div>
 <meta name="thumbnail" content="./img/neurips-logo-new.jpg" /> -->
 
 # Overview
+Deep networks have shown outstanding scaling properties both in terms of data and model sizes: larger performs better. Unfortunately, the computational cost of current state-of-the-art methods is prohibitive. A number of new techniques have recently arisen to address and improve this fundamental quality-cost trade-off. Methods like conditional computation, adaptive computation, dynamic model sparsification, and early-exit approaches aim to address the above mentioned quality-cost trade off. This workshop explores such exciting and practically-relevant research avenues. As part of contributed content we will invite high-quality papers on the following topics: dynamic routing, mixture-of-experts models, early-exit methods, conditional computations, capsules and object-oriented learning, reusable components, online network growing and pruning, online neural architecture search and applications of dynamic networks (continual learning, wireless/embedded devices and similar topics).
 
-Despite the substantial benefits from using synthetic data, the process of synthetic data generation is still an ongoing technical challenge. Although the two scenarios of limited data and privacy concerns share similar technical challenges such as quality and fairness, they are often studied separately.
-This workshop aims at the intersection of these challenges of synthetic data generation, and hopes to shine a light on the solutions that address these challenges. The 1st Synthetic Data Generation workshop will be a [virtual workshop at ICLR 2021](https://iclr.cc/virtual/2021/workshop/2125), May 7, 2021. Our goal is to advance the general discussion of the topic by highlighting contributions proposing innovative approaches integrating quality, privacy and bias aspects of synthetic data generation.
+The 1st Dynamic Neural Networks workshop will be a [hybrid workshop at ICML 2022](https://icml.cc/Conferences/2022/Schedule?showEvent=13451), July 23, 2022. Our goal is to advance the general discussion of the topic by highlighting contributions proposing innovative approaches regarding dynamic neural networks.
 
 **Announcements**
-* [Link to the **live sessions** at ICLR website](https://iclr.cc/virtual/2021/workshop/2125). Note that registration to the ICLR main conference is required in order to access the website.
-* Congratulations to winners of **best paper award**, "Leveraging Public Data for Practical Private Query Release", by Terrance Liu, Giuseppe Vietri, Thomas Steinke, Jonathan Ullman, and Steven Wu! The best paper award is generously sponsored by <a href='https://syntheticdata.community'>Synthetic Data's Community</a>.
+* [Link to the **live sessions** at ICML website](https://www.youtube.com). Note that registration to the ICML main conference is required in order to access the website.
+* Congratulations to winners of **best paper award**, "Placeholder paper title", by Placeholder Placeholder and Placeholder Placeholder!
 
 | ------------- |:-------------:|
-| **Submission** |March 5, 2021 (Anywhere on Earth) |
-| **Notification** | March 31, 2021 |
-| **Camera Ready** | April 16, 2021 |
-| **Submission link**| [link](https://cmt3.research.microsoft.com/SDGICLRW2021) |
-| **Workshop** | May 7, 2021 |
-
-<!-- * Thank you Amazon for ing a best paper award!
-* The 3 best papers will be presented in talks at the workshop! 
-* <a href="schedule">The schedule is online now!</a> 
-* <a href="papers">List of accepted papers available!</a>  -->
-<!--* **NEW** Updates to existing submissions possible until October 12 (11:59pm Pacific Time) <br>New submissions close on October 09 (11:59pm Pacific Time)-->
-
+| **Submission Opens** |April 18, 2022 (Anywhere on Earth) |
+| **Submission** |May 19, 2022 (Anywhere on Earth) |
+| **Notification** | June 13, 2022 |
+| **Video Deadline** | June 28, 2022 |
+| **Camera Ready** | July 9, 2022 |
+| **Submission link**| [link](https://cmt3.research.microsoft.com) |
+| **Workshop** | July 23, 2022 |
 
 <hr>
 
@@ -116,4 +112,4 @@ This workshop aims at the intersection of these challenges of synthetic data gen
 
 <hr>
 
-Contact: [email](mailto:saydore@amazon.com)
+Contact: [email](mailto:tomasz.trzcinski@pw.edu.pl)
