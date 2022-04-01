@@ -2,7 +2,7 @@ Huang:
     name: "Gao Huang"
     url: "http://www.gaohuang.net/"
     affiliation: "Tsinghua University"
-    img: "huang.jpg"
+    img: "huang.png"
     bio: "Prof. Huang is actively working on efficient deep learning, dynamic neural networks, learning with limited data and reinforcement learning. His work on DenseNet won the Best Paper Award of CVPR (2017) and has collected more than 25,000 citations according to Google Scholar."
 
 Sun:
