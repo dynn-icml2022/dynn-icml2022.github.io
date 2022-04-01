@@ -1,0 +1,35 @@
+Aydore:
+  name: "Sergul Aydore"
+  url: "https://sergulaydore.github.io/"
+  affiliation: "AWS"
+  img: "Aydore.jpg"
+Kenthapadi:
+  name: "Krishnaram Kenthapadi"
+  url: "http://www-cs-students.stanford.edu/~kngk/"
+  affiliation: "AWS"
+  img: "Kenthapadi.jpg"
+Chen: 
+  name: "Haipeng Chen"
+  url: "https://haipeng-chen.github.io/"
+  affiliation: "Harvard University"
+  img: "Chen.jpg"
+Choi: 
+  name: "Edward Choi"
+  url: "https://mp2893.com/"
+  affiliation: "KAIST"
+  img: "Choi.jpg"
+Hayes:  
+  name: "Jamie Hayes"
+  url: "https://jamiehay.es/"
+  affiliation: "DeepMind"
+  img: "Hayes.jpeg"
+Fritz:  
+  name: "Mario Fritz"
+  url: "https://cispa.saarland/group/fritz/"
+  affiliation: "CISPA Helmholtz Center for Information Security"
+  img: "Fritz.jpg"
+Cummings:  
+  name: "Rachel Cummings"
+  url: "https://sites.gatech.edu/rachel-cummings/"
+  affiliation: " Columbia University"
+  img: "Cummings.jpg"

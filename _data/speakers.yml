@@ -1,0 +1,42 @@
+Veloso:
+    name: "Manuela M. Veloso"
+    url: "http://www.cs.cmu.edu/~mmv/"
+    affiliation: "J.P.Morgan, CMU"
+    img: "Veloso.jpg"
+    bio: "Manuela M. Veloso joined J.P.Morgan as Managing Director to create and head the Artificial Intelligence Research Lab. With her group, she investigates opportunities for automated, optimized, and novel approaches to AI in Finance. Veloso is on leave from Carnegie Mellon University (CMU) as Herbert A. Simon University Professor in the School of Computer Science, and where she was the Head of the Machine Learning Department. She researches in AI, Robotics, and Machine Learning. At CMU, she founded and directs the CORAL research laboratory, for the study of autonomous agents that Collaborate, Observe, Reason, Act, and Learn. Veloso and her students research a variety of autonomous robots, including mobile service robots and soccer robots.  Veloso is Fellow of the AAAI, AAAS, ACM, and IEEE. She is Einstein Chair Professor of the Chinese National Academy of Science, the co-founder and past President of RoboCup, and past President of AAAI. As of now, Professor Veloso has graduated 40 PhD students and co-authored more than 300 journal and conference publications."
+Kautz:
+    name: "Jan Kautz"
+    url: "https://jankautz.com/"
+    affiliation: "NVIDIA"
+    img: "kautz.jpg"
+    bio: "Jan Kautz is VP of Learning and Perception Research at NVIDIA. Jan and his team pursue fundamental research in the areas of computer vision and deep learning, including visual perception, geometric vision, generative models, and efficient deep learning. His team's work has been recognized with various awards and has been regularly featured in the media. Before joining NVIDIA in 2013, Jan was a tenured faculty member at University College London. He holds a BSc in Computer Science from the University of Erlangen-Nürnberg (1999), an MMath from the University of Waterloo (1999), received his PhD from the Max-Planck-Institut für Informatik (2003), and worked as a post-doctoral researcher at the Massachusetts Institute of Technology (2003-2006)."
+Dieleman:
+    name: "Sander Dieleman"
+    url: "https://benanne.github.io/"
+    affiliation: "DeepMind"
+    img: "Dieleman.jpeg"
+    bio: "Sander Dieleman is a research scientist at DeepMind in London, UK, where he has worked on the AlphaGo and WaveNet projects. His research interests include generative modelling and representation learning in the audio and visual domains, with a particular focus on music, as well as recommender systems and equivariance in neural networks. He obtained his Ph.D. in Computer Science from Ghent University in 2016, working on feature learning and deep learning techniques for learning hierarchical representations of musical audio signals."
+Schaar:
+    name: "Mihaela van der Schaar"
+    url: "https://www.vanderschaar-lab.com/"
+    affiliation: "University of Cambridge, The Alan Turing Institute, UCLA"
+    img: "schaar.jpg"
+    bio: "Mihaela van der Schaaris John Humphrey Plummer Professor of Machine Learning, Artificial Intelligence and Medicine at the University of Cambridge, a Turing Faculty Fellow at The Alan Tur-ing Institute in London, and a Chancellor’s Professor at UCLA. Mihaela was elected IEEE Fellow in 2009. She has received numerous awards, including the Oon Prize on Preventative Medicine fromthe University of Cambridge (2018), an NSF Career Award (2004), 3 IBM Faculty Awards, the IBM Exploratory Stream Analytics Innovation Award, the Philips Make a Difference Award and severalbest paper awards, including the IEEE Darlington Award. Mihaela’s work has also led to 35 USApatents (many widely cited and adopted in standards) and 45+ contributions to international stan-dards for which she received 3 International ISO (International Organization for Standardization) Awards."
+Ermon:
+    name: "Stefano Ermon"
+    url: "https://cs.stanford.edu/~ermon/"
+    affiliation: "Stanford University"
+    img: "Ermon.jpg"
+    bio: "Stefano Ermon is an Assistant Professor of Computer Science in the CS Department at Stanford University, where he is affiliated with the Artificial Intelligence Laboratory, and a fellow of the Woods Institute for the Environment. His research is centered on techniques for probabilistic modeling of data and is motivated by applications in the emerging field of computational sustainability. He has won several awards, including four Best Paper Awards (AAAI, UAI and CP), a NSF Career Award, ONR and AFOSR Young Investigator Awards, a Sony Faculty Innovation Award, a Hellman Faculty Fellowship, Microsoft Research Fellowship, Sloan Fellowship, and the IJCAI Computers and Thought Award. Stefano earned his Ph.D. in Computer Science at Cornell University in 2015."  
+Yoon:
+    name: "Jinsung Yoon"
+    url: "https://sites.google.com/view/jinsungyoon"
+    affiliation: "Google Cloud AI"
+    img: "Yoon.jpeg"
+    bio: "Jinsung Yoon is a research scientist at Google Cloud AI. Prior to Google Cloud, Jinsung was a PhD student in the Electrical and Computer Engineering Department at UCLA. He received his PhD from UCLA in 2020 and his PhD thesis was on machine learning for medicine (titled as End-to-End Machine Learning Frameworks for Medicine: Data Imputation, Model Interpretation and Synthetic Data Generation). His main research interests have been on synthetic data generation with privacy guarantee, data imputation, model interpretation, and transfer learning using adversarial learning and reinforcement learning frameworks. He has published various papers and served as a reviewer in top-tier machine learning conferences (NeurIPS, ICML, ICLR, AAAI)."
+Denton:
+    name: "Emily Denton"
+    url: "https://cephaloponderer.com/"
+    affiliation: "Google’s Ethical AI team"
+    img: "Denton.png"
+    bio: "Emily Denton is a Research Scientist on Google’s Ethical AI team where they examine the societal impacts of AI technology. Their recent research centers on critically examining the norms, values, and work practices that structure the development and use of machine learning datasets. Prior to joining Google, Emily received their PhD in machine learning from the Courant Institute of Mathematical Sciences at New York University, where they focused on unsupervised learning and generative modeling of images and video."
