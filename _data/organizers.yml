@@ -16,12 +16,12 @@ McDanel:
 Banino: 
   name: "Andrea Banino"
   url: "https://scholar.google.com/citations?hl=en&user=QD-sf3IAAAAJ/"
-  affiliation: "Google Brain"
+  affiliation: "DeepMind"
   img: "banino.jpg"
 Riquelme:  
   name: "Carlos Riquelme"
   url: "https://rikel.github.io/"
-  affiliation: "DeepMind"
+  affiliation: "Google Brain"
   img: "riquelme.png"
 Trzcinski:  
   name: "Tomasz Trzcinski"
