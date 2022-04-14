@@ -28,7 +28,7 @@ The 1st Dynamic Neural Networks workshop will be a [hybrid workshop at ICML 2022
 
 <hr>
 
-# Speakers & Panelists
+# Keynote Speakers
 <div class="container" style="margin-top: 20px;margin-bottom: 0px;">
   <div class="row">
   {% for p in site.data.speakers %}
