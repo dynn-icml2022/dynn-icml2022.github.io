@@ -3,8 +3,8 @@ layout: page
 title: Workshop on Dynamic Neural Networks
 subtitle: 2022 International Conference on Machine Learning
 use-site-title: true
-header-img: "https://dynn-icml2022.github.io/img/logo.png"
-share-img: "https://dynn-icml2022.github.io/img/logo.png"
+header-img: "https://dynn-icml2022.github.io/img/logo.jpg"
+share-img: "https://dynn-icml2022.github.io/img/logo.jpg"
 ---
 
 <!-- <div class="sharethis-inline-share-buttons"></div>
