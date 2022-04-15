@@ -3,7 +3,10 @@ layout: page
 title: Workshop on Dynamic Neural Networks
 subtitle: 2022 International Conference on Machine Learning
 use-site-title: true
+header-img: "img/logo.png"
 ---
+
+
 
 <!-- <div class="sharethis-inline-share-buttons"></div>
 <meta name="thumbnail" content="./img/logo.png" /> -->

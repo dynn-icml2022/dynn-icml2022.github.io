@@ -3,7 +3,9 @@ layout: page
 title: Workshop on Dynamic Neural Networks
 subtitle: 2022 International Conference on Machine Learning
 use-site-title: true
+header-img: "img/logo.png"
 ---
+
 
 # Call for Papers
 We invite theoretical and practical contributions (up to 4 pages, ICML format, with an unlimited number of additional pages for references), covering the topics of the workshop. We encourage novel or preliminary works, although we will also accept high-quality works that have been published or submitted elsewhere. 
