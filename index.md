@@ -23,44 +23,37 @@ The 1st Dynamic Neural Networks workshop will be a [hybrid workshop at ICML 2022
 **Submission Deadline:** May 25, 2022 (Anywhere on Earth) <br>
 **Author Notification:** June 13, 2022 <br>
 **Video Deadline:** June 28th, 2022 <br>
-**Camera Ready Deadline:** July 9, 2022
+**Camera Ready Deadline:** July 9, 2022 <br>
 **Workshop Day:** July 23, 2022
 
 <hr>
 
-# Keynote Speakers
+# Speakers
 <div class="container" style="margin-top: 20px;margin-bottom: 0px;">
   <div class="row">
+  ## Keynote Speakaers <br>
   {% for p in site.data.speakers %}
-  {% if forloop.index<=4 %}
+  {% if forloop.index<=2 %}
   {% capture id %}{{ p[0] }}{% endcapture %}
   {% include profile.html p=p %}
   {% endif %}
   {% endfor %}
   </div>
+  ## Invited Speakers <br>
   <div class="row">
   {% for p in site.data.speakers %}
   {% capture id %}{{ p[0] }}{% endcapture %}
-  {% if forloop.index>4 and forloop.index<=8%}
+  {% if forloop.index>2%}
   {% include profile.html p=p %}
   {% endif %}
   {% endfor %}
   </div>
-  <div class="row">
-  {% for p in site.data.speakers %}
-  {% capture id %}{{ p[0] }}{% endcapture %}
-  {% if forloop.index>10 %}
-  {% include profile.html p=p %}
-  {% endif %}
-  {% endfor %}
-  </div>
-<a href="speakers">More Info on Our Speakers</a>
+<a href="speakers">More Info</a>
 </div>
 
 <hr>
 
 # Organizers
-
 <!-- prettier-ignore -->
 <div class="container" style="margin-top: 20px;margin-bottom: 0px;">
   <div class="row">
@@ -74,37 +67,21 @@ The 1st Dynamic Neural Networks workshop will be a [hybrid workshop at ICML 2022
   <div class="row">
   {% for p in site.data.organizers %}
   {% capture id %}{{ p[0] }}{% endcapture %}
-  {% if forloop.index>4 and forloop.index<=8%}
+  {% if forloop.index>4 and forloop.index<=6%}
   {% include profile.html p=p %}
   {% endif %}
   {% endfor %}
   </div>
-</div>
-<hr>
-
-# Panel Chairs
-
-<!-- prettier-ignore -->
-<div class="container" style="margin-top: 20px;margin-bottom: 0px;">
-  <div class="row">
-    {% for p in site.data.panelchairs %}
-    {% capture id %}{{ p[0] }}{% endcapture %}
-    {% if forloop.index<=4 %}
-    {% include profile.html p=p %}
-    {% endif %}
-    {% endfor %}
-  </div>
+  ## Panel Chairs <br>
   <div class="row">
   {% for p in site.data.panelchairs %}
   {% capture id %}{{ p[0] }}{% endcapture %}
-  {% if forloop.index>4 and forloop.index<=8%}
   {% include profile.html p=p %}
   {% endif %}
   {% endfor %}
   </div>
 </div>
 <hr>
-
 
 
 # Program Committee
