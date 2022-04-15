@@ -21,7 +21,7 @@ Please email any enquiries to [icmldynamicnn@gmail.com](mailto:icmldynamicnn@gma
 **Submission Deadline:** May 25, 2022 (Anywhere on Earth) <br>
 **Author Notification:** June 13, 2022 <br>
 **Video Deadline (for contributed/spotlight talks):** June 28th, 2022 <br>
-**Camera Ready Deadline:** July 9, 2022
+**Camera Ready Deadline:** July 9, 2022 <br>
 **Workshop Day:** July 23, 2022
 
 
