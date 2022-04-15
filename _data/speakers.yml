@@ -17,18 +17,18 @@ Tuytelaars:
     url: "https://homes.esat.kuleuven.be/~tuytelaa/"
     affiliation: "KU Leuven"
     img: "tuytelaars.jpeg"
-    bio: "Prof. Tuytelaars' research focuses on dynamic neural networks, continual learning andrepresentation learning for computer vision. As a recognized expert in this field, she has collected over 59,000 citations, received several awards and was Program Chair of ECCV'14 and CVPR'21, among other things."
+    bio: "Prof. Tuytelaars' research focuses on dynamic neural networks, continual learning and representation learning for computer vision. As a recognized expert in this field, she has collected over 59,000 citations, received several awards and was Program Chair of ECCV'14 and CVPR'21, among other things."
 
 XHuang:
     name: "Xuanjing Huang"
     url: "https://nlp.fudan.edu.cn/28702/list.htm"
     affiliation: "Fudan University"
     img: "xhuang.jpg"
-    bio: "Prof. Huang's research interest includes natural language processing, informationretrieval, artificial intelligence and deep learning, including research on structural and reusable informationinside large language models. She has published over 130 papers in major NLP, AI and IR conferences andjournals."
+    bio: "Prof. Huang's research interest includes natural language processing, information retrieval, artificial intelligence and deep learning, including research on structural and reusable information inside large language models. She has published over 130 papers in major NLP, AI and IR conferences andjournals."
 
 Locatello:
     name: "Francesco Locatello"
     url: "https://www.amazon.science/author/francesco-locatello"
     affiliation: "AWS AI"
     img: "locatello.jpg"
-    bio: "Dr. Locatello has published seminal papers in the fields of causal representationlearning, independent mechanisms, and slot attention, for which he has won several awards, including a bestpaper award at ICML and the ETH medal for outstanding doctoral dissertation. He has co-organized the 1stinternational conference on Causal Learning and Reasoning (CLeaR)."
+    bio: "Dr. Locatello has published seminal papers in the fields of causal representationlearning, independent mechanisms, and slot attention, for which he has won several awards, including a best paper award at ICML and the ETH medal for outstanding doctoral dissertation. He has co-organized the 1st International Conference on Causal Learning and Reasoning (CLeaR)."
