@@ -77,7 +77,6 @@ The 1st Dynamic Neural Networks workshop will be a [hybrid workshop at ICML 2022
   {% for p in site.data.panelchairs %}
   {% capture id %}{{ p[0] }}{% endcapture %}
   {% include profile.html p=p %}
-  {% endif %}
   {% endfor %}
   </div>
 </div>
