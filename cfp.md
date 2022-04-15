@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Dynamic Neural Networks
-subtitle: ICML2022 Workshop
+title: Workshop on Dynamic Neural Networks
+subtitle: 2022 International Conference on Machine Learning
 use-site-title: true
 ---
 
@@ -12,7 +12,7 @@ Submissions must be sent on the [Microsoft CMT submission portal](https://cmt3.r
 
 The workshop will not have formal proceedings, but accepted submissions will be published on the workshop website, unless specified otherwise by the authors.
 
-Please email any enquiries to [email](mailto:icmldynamicnn@gmail.com)
+Please email any enquiries to [icmldynamicnn@gmail.com](mailto:icmldynamicnn@gmail.com).
 
 
 ### Important Dates 

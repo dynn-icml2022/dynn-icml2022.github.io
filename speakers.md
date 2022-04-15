@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Dynamic Neural Networks
-subtitle: ICML2022 Workshop
+title: Workshop on Dynamic Neural Networks
+subtitle: 2022 International Conference on Machine Learning
 use-site-title: true
 ---
 
