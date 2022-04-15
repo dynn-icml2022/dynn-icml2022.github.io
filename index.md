@@ -1,30 +1,30 @@
 ---
 layout: page
-title: Dynamic Neural Networks
-subtitle: ICML2022 Workshop
+title: Workshop on Dynamic Neural Networks
+subtitle: 2022 International Conference on Machine Learning
 use-site-title: true
 ---
 
-<!--<div class="sharethis-inline-share-buttons"></div>
-<meta name="thumbnail" content="./img/neurips-logo-new.jpg" /> -->
+<!-- <div class="sharethis-inline-share-buttons"></div>
+<meta name="thumbnail" content="./img/logo.png" /> -->
 
 # Overview
 Deep networks have shown outstanding scaling properties both in terms of data and model sizes: larger performs better. Unfortunately, the computational cost of current state-of-the-art methods is prohibitive. A number of new techniques have recently arisen to address and improve this fundamental quality-cost trade-off. Methods like conditional computation, adaptive computation, dynamic model sparsification, and early-exit approaches aim to address the above mentioned quality-cost trade off. This workshop explores such exciting and practically-relevant research avenues. As part of contributed content we will invite high-quality papers on the following topics: dynamic routing, mixture-of-experts models, early-exit methods, conditional computations, capsules and object-oriented learning, reusable components, online network growing and pruning, online neural architecture search and applications of dynamic networks (continual learning, wireless/embedded devices and similar topics).
 
-The 1st Dynamic Neural Networks workshop will be a [hybrid workshop at ICML 2022](https://icml.cc/Conferences/2022/Schedule?showEvent=13451), July 23, 2022. Our goal is to advance the general discussion of the topic by highlighting contributions proposing innovative approaches regarding dynamic neural networks.
+The 1st Dynamic Neural Networks workshop will be a [hybrid workshop at ICML 2022](https://icml.cc/Conferences/2022/Schedule?showEvent=13451) on July 23, 2022. Our goal is to advance the general discussion of the topic by highlighting contributions proposing innovative approaches regarding dynamic neural networks.
+
 
 **Announcements**
-* [Link to the **live sessions** at ICML website](https://www.youtube.com). Note that registration to the ICML main conference is required in order to access the website.
-* Congratulations to winners of **best paper award**, "Placeholder paper title", by Placeholder Placeholder and Placeholder Placeholder!
+* [Microsoft CMT Submission portal](https://cmt3.research.microsoft.com/DyNN2022/) is now open! 
 
-| ------------- |:-------------:|
-| **Submission Opens** |April 18, 2022 (Anywhere on Earth) |
-| **Submission** |May 19, 2022 (Anywhere on Earth) |
-| **Notification** | June 13, 2022 |
-| **Video Deadline** | June 28, 2022 |
-| **Camera Ready** | July 9, 2022 |
-| **Submission link**| [link](https://cmt3.research.microsoft.com) |
-| **Workshop** | July 23, 2022 |
+<!-- * [Link to the **live sessions** at ICML website](https://www.youtube.com). Note that registration to the ICML main conference is required in order to access the website. -->
+<!-- * Congratulations to winners of **best paper award**, "Placeholder paper title", by Placeholder Placeholder and Placeholder Placeholder! -->
+
+**Submission Deadline:** May 25, 2022 (Anywhere on Earth) <br>
+**Author Notification:** June 13, 2022 <br>
+**Video Deadline:** June 28th, 2022 <br>
+**Camera Ready Deadline:** July 9, 2022
+**Workshop Day:** July 23, 2022
 
 <hr>
 
@@ -54,7 +54,7 @@ The 1st Dynamic Neural Networks workshop will be a [hybrid workshop at ICML 2022
   {% endif %}
   {% endfor %}
   </div>
-<a href="speakers">More Info</a>
+<a href="speakers">More Info on Our Speakers</a>
 </div>
 
 <hr>
@@ -81,6 +81,31 @@ The 1st Dynamic Neural Networks workshop will be a [hybrid workshop at ICML 2022
   </div>
 </div>
 <hr>
+
+# Panel Chairs
+
+<!-- prettier-ignore -->
+<div class="container" style="margin-top: 20px;margin-bottom: 0px;">
+  <div class="row">
+    {% for p in site.data.panelchairs %}
+    {% capture id %}{{ p[0] }}{% endcapture %}
+    {% if forloop.index<=4 %}
+    {% include profile.html p=p %}
+    {% endif %}
+    {% endfor %}
+  </div>
+  <div class="row">
+  {% for p in site.data.panelchairs %}
+  {% capture id %}{{ p[0] }}{% endcapture %}
+  {% if forloop.index>4 and forloop.index<=8%}
+  {% include profile.html p=p %}
+  {% endif %}
+  {% endfor %}
+  </div>
+</div>
+<hr>
+
+
 
 # Program Committee
 <!-- prettier-ignore -->

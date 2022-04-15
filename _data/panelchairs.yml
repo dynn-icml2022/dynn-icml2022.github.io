@@ -1,0 +1,10 @@
+Restuccia:
+  name: "Francesco Restuccia"
+  url: "https://restuccialab.github.io/"
+  affiliation: "Northeastern University"
+  img: "restuccia.jpg"
+Houlsby:
+  name: "Neil Houlsby"
+  url: "https://neilhoulsby.github.io/"
+  affiliation: "Google Brain"
+  img: "houlsby.jpg"
