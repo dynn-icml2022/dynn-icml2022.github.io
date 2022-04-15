@@ -31,7 +31,7 @@ The 1st Dynamic Neural Networks workshop will be a [hybrid workshop at ICML 2022
 # Speakers
 <div class="container" style="margin-top: 20px;margin-bottom: 0px;">
   <div class="row">
-  ## Keynote Speakaers <br>
+  <h2> Keynote Speakers </h2>
   {% for p in site.data.speakers %}
   {% if forloop.index<=2 %}
   {% capture id %}{{ p[0] }}{% endcapture %}
@@ -39,7 +39,7 @@ The 1st Dynamic Neural Networks workshop will be a [hybrid workshop at ICML 2022
   {% endif %}
   {% endfor %}
   </div>
-  ## Invited Speakers <br>
+  <h2> Invited Speakers </h2>
   <div class="row">
   {% for p in site.data.speakers %}
   {% capture id %}{{ p[0] }}{% endcapture %}
@@ -72,7 +72,7 @@ The 1st Dynamic Neural Networks workshop will be a [hybrid workshop at ICML 2022
   {% endif %}
   {% endfor %}
   </div>
-  ## Panel Chairs <br>
+  <h2> Panel Chairs </h2>
   <div class="row">
   {% for p in site.data.panelchairs %}
   {% capture id %}{{ p[0] }}{% endcapture %}

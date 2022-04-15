@@ -4,24 +4,28 @@ Huang:
     affiliation: "Tsinghua University"
     img: "huang.png"
     bio: "Prof. Huang is actively working on efficient deep learning, dynamic neural networks, learning with limited data and reinforcement learning. His work on DenseNet won the Best Paper Award of CVPR (2017) and has collected more than 25,000 citations according to Google Scholar."
+
 Sun:
     name: "Weinan Sun"
     url: "https://www.janelia.org/people/weinan-sun"
     affiliation: "Janelia Research Campus"
     img: "sun.jpg"
     bio: "Dr. Sun is a theoretical neuroscientist also active in the deep learning community. Dr.Sun's work is centered around memory, in particular on how memories are dynamically consolidated for better generalisation. His work has been published in top tier journals, such as Nature and Nature Neuroscience,and it has had a strong impact on the related fields."
+
 Tuytelaars:
     name: "Tinne Tuytelaars"
     url: "https://homes.esat.kuleuven.be/~tuytelaa/"
     affiliation: "KU Leuven"
     img: "tuytelaars.jpeg"
     bio: "Prof. Tuytelaars' research focuses on dynamic neural networks, continual learning andrepresentation learning for computer vision. As a recognized expert in this field, she has collected over 59,000 citations, received several awards and was Program Chair of ECCV'14 and CVPR'21, among other things."
-Huang:
+
+XHuang:
     name: "Xuanjing Huang"
     url: "https://nlp.fudan.edu.cn/28702/list.htm"
     affiliation: "Fudan University"
     img: "xhuang.jpg"
     bio: "Prof. Huang's research interest includes natural language processing, informationretrieval, artificial intelligence and deep learning, including research on structural and reusable informationinside large language models. She has published over 130 papers in major NLP, AI and IR conferences andjournals."
+
 Locatello:
     name: "Francesco Locatello"
     url: "https://www.amazon.science/author/francesco-locatello"
