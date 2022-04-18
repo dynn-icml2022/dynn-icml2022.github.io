@@ -69,7 +69,8 @@ author:
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
-#social-network-links:
+social-network-links:
+  twitter: dynn_icml2022
   # rss: true
   #email: "saydore@amazon.com"
   # facebook: daattali

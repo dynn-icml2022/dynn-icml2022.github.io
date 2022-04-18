@@ -31,7 +31,7 @@ The 1st Dynamic Neural Networks workshop will be a [hybrid workshop at ICML 2022
 
 <hr>
 
-# Speakers
+# Speakers [More Info](https://dynn-icml2022.github.io/speakers/)
 <div class="container" style="margin-top: 20px;margin-bottom: 0px;">
   <div class="row">
   <h2> Keynote Speakers </h2>
@@ -51,7 +51,6 @@ The 1st Dynamic Neural Networks workshop will be a [hybrid workshop at ICML 2022
   {% endif %}
   {% endfor %}
   </div>
-<a href="speakers">More Info</a>
 </div>
 
 <hr>
