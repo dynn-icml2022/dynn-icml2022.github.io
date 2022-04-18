@@ -115,4 +115,4 @@ The 1st Dynamic Neural Networks workshop will be a [hybrid workshop at ICML 2022
 
 <hr>
 
-Contact: [email](mailto:icmldynamicnn@gmail.com)
+Contact: [icmldynamicnn@gmail.com](mailto:icmldynamicnn@gmail.com)
