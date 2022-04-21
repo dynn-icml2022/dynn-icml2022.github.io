@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Workshop on Dynamic Neural Networks
-subtitle: 22 July 2022 - 2022 International Conference on Machine Learning - Baltimore, MD
+subtitle: Friday, July 22 - 2022 International Conference on Machine Learning - Baltimore, MD
 use-site-title: true
 header-img: "https://dynn-icml2022.github.io/img/logo.jpg"
 share-img: "https://dynn-icml2022.github.io/img/logo.jpg"
