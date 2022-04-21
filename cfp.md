@@ -1,12 +1,11 @@
 ---
 layout: page
 title: Workshop on Dynamic Neural Networks
-subtitle: 2022 International Conference on Machine Learning
+subtitle: 22 July 2022 - 2022 International Conference on Machine Learning - Baltimore, MD
 use-site-title: true
 header-img: "https://dynn-icml2022.github.io/img/logo.jpg"
 share-img: "https://dynn-icml2022.github.io/img/logo.jpg"
 ---
-
 
 # Call for Papers
 We invite theoretical and practical contributions (up to 4 pages, ICML format, with an unlimited number of additional pages for references), covering the topics of the workshop. We encourage novel or preliminary works, although we will also accept high-quality works that have been published or submitted elsewhere. 
@@ -25,7 +24,7 @@ Please email any enquiries to [icmldynamicnn@gmail.com](mailto:icmldynamicnn@gma
 **Author Notification:** June 13, 2022 <br>
 **Video Deadline (for contributed/spotlight talks):** June 28th, 2022 <br>
 **Camera Ready Deadline:** July 9, 2022 <br>
-**Workshop Day:** July 23, 2022
+**Workshop Day:** July 22, 2022
 
 
 

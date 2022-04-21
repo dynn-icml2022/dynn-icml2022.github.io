@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Workshop on Dynamic Neural Networks
-subtitle: 2022 International Conference on Machine Learning
+subtitle: 22 July 2022 - 2022 International Conference on Machine Learning - Baltimore, MD
 use-site-title: true
 header-img: "https://dynn-icml2022.github.io/img/logo.jpg"
 share-img: "https://dynn-icml2022.github.io/img/logo.jpg"
@@ -13,7 +13,7 @@ share-img: "https://dynn-icml2022.github.io/img/logo.jpg"
 # Overview
 Deep networks have shown outstanding scaling properties both in terms of data and model sizes: larger performs better. Unfortunately, the computational cost of current state-of-the-art methods is prohibitive. A number of new techniques have recently arisen to address and improve this fundamental quality-cost trade-off. Methods like conditional computation, adaptive computation, dynamic model sparsification, and early-exit approaches aim to address the above mentioned quality-cost trade off. This workshop explores such exciting and practically-relevant research avenues. As part of contributed content we will invite high-quality papers on the following topics: dynamic routing, mixture-of-experts models, early-exit methods, conditional computations, capsules and object-oriented learning, reusable components, online network growing and pruning, online neural architecture search and applications of dynamic networks (continual learning, wireless/embedded devices and similar topics).
 
-The 1st Dynamic Neural Networks workshop will be a [hybrid workshop at ICML 2022](https://icml.cc/Conferences/2022/Schedule?showEvent=13451) on July 23, 2022. Our goal is to advance the general discussion of the topic by highlighting contributions proposing innovative approaches regarding dynamic neural networks.
+The 1st Dynamic Neural Networks workshop will be a [hybrid workshop at ICML 2022](https://icml.cc/Conferences/2022/Schedule?showEvent=13451) on July 22, 2022. Our goal is to advance the general discussion of the topic by highlighting contributions proposing innovative approaches regarding dynamic neural networks.
 
 
 **Announcements**
@@ -27,7 +27,7 @@ The 1st Dynamic Neural Networks workshop will be a [hybrid workshop at ICML 2022
 **Author Notification:** June 13, 2022 <br>
 **Video Deadline:** June 28th, 2022 <br>
 **Camera Ready Deadline:** July 9, 2022 <br>
-**Workshop Day:** July 23, 2022
+**Workshop Day:** July 22, 2022
 
 <hr>
 
