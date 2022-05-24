@@ -23,7 +23,7 @@ The 1st Dynamic Neural Networks workshop will be a [hybrid workshop at ICML 2022
 <!-- * Congratulations to winners of **best paper award**, "Placeholder paper title", by Placeholder Placeholder and Placeholder Placeholder! -->
 
 
-**Submission Deadline:** May 25, 2022 (Anywhere on Earth) <br>
+**Submission Deadline:** May 31, 2022 (Anywhere on Earth) <br>
 **Author Notification:** June 13, 2022 <br>
 **Video Deadline:** June 28th, 2022 <br>
 **Camera Ready Deadline:** July 9, 2022 <br>
