@@ -8,7 +8,7 @@ share-img: "https://dynn-icml2022.github.io/img/logo.jpg"
 ---
 
 # Call for Papers
-We invite theoretical and practical contributions (up to 4 pages, ICML format, with an unlimited number of additional pages for references), covering the topics of the workshop. We encourage novel or preliminary works, although we will also accept high-quality works that have been published or submitted elsewhere. 
+We invite theoretical and practical contributions (up to 4 pages, ICML format, with an unlimited number of additional pages for references and appendices), covering the topics of the workshop. We encourage novel or preliminary works, although we will also accept high-quality works that have been published or submitted elsewhere. 
 
 Submissions must be sent on the [Microsoft CMT submission portal](https://cmt3.research.microsoft.com/DyNN2022/), before May 31, 2022 AoE. Submissions need not be anonymized. 
 
