@@ -25,7 +25,7 @@ navbar-links:
   Home: 'index'
   Call: "cfp"
   Speakers: "speakers"
-  # Papers: "papers"
+  Papers: "papers"
   # Schedule: "schedule"
   Organizers: "#organizers"
 

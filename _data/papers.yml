@@ -1,9 +1,123 @@
 paper_1:
-  authors: "Placeholder Placeholder (University of Placeholder); Placeholder Placeholder (University of Placeholder)"
-  title: "Placeholder title"
+  authors: "Zihao Zhao (Fudan University)*; Yanhong Wang (Fudan university); Qiaosha Zou (Fudan University); Xiaoan Wang (BrainUp Research Lab); C.-J. Richard Shi (Fudan University); Junwen Luo (BrainUp Research Lab)"
+  title: "The Spike Gating Flow: A Hierarchical Structure Based Spiking Neural Network for Spatiotemporal Computing"
   alt_url: ""
 
 paper_2:
-  authors: "Placeholder Placeholder (University of Placeholder); Placeholder Placeholder (University of Placeholder)"
-  title: "Placeholder title"
+  authors: "Jin Gao (Shanghai Jiaotong University); Jialing Zhang (Shanghai Jiaotong University); Xihui Liu (UC Berkeley); Trevor Darrell (UC Berkeley); Evan Shelhamer (DeepMind); Dequan Wang (UC Berkeley)*"
+  title: "Back to the Source: Test-Time Diffusion-Driven Adaptation"
+  alt_url: ""
+
+paper_3:
+  authors: "Arian Bakhtiarnia (Aarhus University)*; Nemanja B Milosevic (UNSPMF); Qi Zhang (Aarhus University); Dragana Bajović (University of Novi Sad); Alexandros Iosifidis (Aarhus University)"
+  title: "Dynamic Split Computing for Efficient Deep Edge Intelligence"
+  alt_url: ""
+
+paper_4:
+  authors: "Corban Rivera (JHU/APL)*; Chace Ashcraft (JHU/APL); Katie Popek (JHU/APL); Edward Staley (JHU/APL); Kapil Katyal (Johns Hopkins University)"
+  title: "Discovering Generalizable Deep Network Modularity"
+  alt_url: ""
+
+paper_5:
+  authors: "Samuele Papa (University of Amsterdam)*; Ole Winther (DTU and KU); Andrea Dittadi (Technical University of Denmark)"
+  title: "Inductive Biases for Object-Centric Representations in the Presence of Complex Textures"
+  alt_url: ""
+
+paper_6:
+  authors: "Suman Sapkota (NAAMII)*; Binod Bhattarai (University College London)"
+  title: "Noisy Heuristics NAS: A Network Morphism based Neural Architecture Search using Heuristics"
+  alt_url: ""
+
+paper_7:
+  authors: "Aman Madaan (Carnegie Mellon University)*; Yiming Yang (Carnegie Mellon University)"
+  title: "FLOWGEN: Fast and slow graph generation"
+  alt_url: ""
+
+paper_8:
+  authors: "Jani Boutellier (University of Vaasa)*; Bo Tan (Tampere University); Jari - Nurmi (Tampere University of Technology Finland)"
+  title: "Fault-Tolerant Collaborative Inference through the Edge-PRUNE Framework"
+  alt_url: ""
+
+
+paper_9:
+  authors: "Haiyan Zhao (University of Technology Sydney)*; Tianyi Zhou (University of Washington); Guodong Long (University of Technology Sydney); Jing Jiang (University of Technology Sydney); Chengqi Zhang (University of Technology Sydney)"
+  title: "Vote for Nearest Neighbors Meta-Pruning of Self-Supervised Networks"
+  alt_url: ""
+
+paper_10:
+  authors: "James U Allingham (University of Cambridge)*; Eric Nalisnick (University of Amsterdam)"
+  title: "A Product of Experts Approach to Early-Exit Ensembles"
+  alt_url: ""
+
+paper_11:
+  authors: ""Joonhyun Jeong (Clova Image Vision, NAVER Corp.)*; Joonsang Yu (NAVER CLOVA); Dongyoon  Han (NAVER AI Lab); Youngjoon Yoo (Clova AI Research, NAVER Corp.)""
+  title: "Neural Architecture Search with Loss Flatness-aware Measure"
+  alt_url: ""
+
+paper_12:
+  authors: "Sarthak Mittal (Mila)*; Yoshua Bengio (Mila); Guillaume Lajoie (Mila, Université de Montréal)"
+  title: "Is a Modular Architecture Enough?"
+  alt_url: ""
+
+paper_13:
+  authors: "Ziwen Han (University of Toronto)*; Evgeniya Gorobets (University of Toronto); Pan Chen (University of Toronto)"
+  title: "Parameter efficient dendritic-tree neurons outperform perceptrons"
+  alt_url: ""
+
+paper_14:
+  authors: "Lianke Qin (UCSB)*; Somdeb Sarkhel (Adobe); Zhao Song (Adobe Research); Danyang Zhuo (Duke University)"
+  title: "Single, Practical and Fast Dynamic Truncation Kernel Multiplication"
+  alt_url: ""
+
+
+paper_15:
+  authors: "Tal Schuster (Google)*; Adam Fisch (MIT); Jai Gupta (Google); Mostafa Dehghani (Google Brain); Dara Bahri (Google); Vinh Q Tran (Google); Yi Tay (Google); Donald Metzler (Google)"
+  title: " Confident Adaptive Language Modeling"
+  alt_url: ""
+
+paper_16:
+  authors: "ZIHAO DENG (Washington University in St. Louis)*; Zee Fryer (Google Research); Brendan Juba (Washington University in St Louis); Rina Panigrahy (Google); Xin Wang (Google)"
+  title: "Provable Hierarchical Lifelong Learning with a Sketch-based Modular Architecture"
+  alt_url: ""
+
+paper_17:
+  authors: "Sergey Zinchenko (NSU)*; Dmitry Lishudi (Higher School of Economics)"
+  title: "SnapStar Algorithm: a new way to ensemble Neural Networks"
+  alt_url: ""
+
+paper_18:
+  authors: "Alberto Marchisio (Technische Universität Wien (TU Wien))*; Vojtech Mrazek (Brno University of Technology); Andrea Massa (Politecnico di Torino); Beatrice Bussolino (Politecnico di Torino); Maurizio Martina (Politecnico di Torino); Muhammad Shafique (New York University Abu Dhabi)"
+  title: "HARNAS: Neural Architecture Search Jointly Optimizing for Hardware Efficiency and Adversarial Robustness of Convolutional and Capsule Networks"
+  alt_url: ""
+
+paper_19:
+  authors: "Amanuel N Mersha (Addis Ababa Institute Technology)*"
+  title: "Dynamic Transformer Networks"
+  alt_url: ""
+
+paper_20:
+  authors: "Kale-ab Tessera (InstaDeep)*; Chiratidzo Matowe (InstaDeep); Arnu Pretorius (Instadeep); Benjamin Rosman (University of the Witwatersrand); Sara Hooker (Cohere)"
+  title: "Just-in-Time Sparsity: Learning Dynamic Sparsity Schedules"
+  alt_url: ""
+
+paper_21:
+  authors: "Durmus Alp Emre Acar (Boston University)*; Venkatesh Saligrama (Boston University)"
+  title: "FedHeN: Federated Learning in Heterogeneous Networks"
+  alt_url: ""
+
+
+paper_22:
+  authors: "Diganta Misra (MILA)*; Bharat Runwal (Indian Institute of Technology(IIT), Delhi); Tianlong Chen (Unversity of Texas at Austin); Zhangyang Wang (University of Texas at Austin); Irina Rish (Mila/UdeM)"
+  title: "APP: Anytime Progressive Pruning"
+  alt_url: ""
+
+
+paper_23:
+  authors: "Francesco Faccio (The Swiss AI Lab IDSIA); Vincent Herrmann (IDSIA)*; Aditya Ramesh (The Swiss AI Lab IDSIA); Louis Kirsch (Swiss AI Lab IDSIA); Jürgen  Schmidhuber (IDSIA - Lugano)"
+  title: "Deep Policy Generators"
+  alt_url: ""
+
+paper_24:
+  authors: "Aleksandra I Nowak (Jagiellonian Univeristy)*; Romuald Janik (Jagiellonian University)"
+  title: "Connectivity Properties of Neural Networks Under Performance-Resources Trade-off"
   alt_url: ""
