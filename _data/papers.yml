@@ -50,7 +50,7 @@ paper_10:
   alt_url: ""
 
 paper_11:
-  authors: ""Joonhyun Jeong (Clova Image Vision, NAVER Corp.)*; Joonsang Yu (NAVER CLOVA); Dongyoon  Han (NAVER AI Lab); Youngjoon Yoo (Clova AI Research, NAVER Corp.)""
+  authors: "Joonhyun Jeong (Clova Image Vision, NAVER Corp.)*; Joonsang Yu (NAVER CLOVA); Dongyoon  Han (NAVER AI Lab); Youngjoon Yoo (Clova AI Research, NAVER Corp.)"
   title: "Neural Architecture Search with Loss Flatness-aware Measure"
   alt_url: ""
 
