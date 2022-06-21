@@ -1,71 +1,97 @@
 opening:
-  event: "Opening Remarks"
+  event: "Welcome"
   start: "09:00 AM - 09:15 AM"
   type: "General"
-Huang:
+Keynote1:
   event: "Huang"
-  title: "Placeholder presentation title"
+  title: "Spatially and Temporally Adaptive Neural Networks"
   start: "09:15 AM - 10:00 AM"
-  type: "Invited"
-contrib0:
-  event: "Placeholder title"
-  author: "Placeholder presenter"
+  type: "Keynote"
+invited1:
+  event: "Tuytelaars"
+  title: "TBD"
   start: "10:00 AM - 10:30 AM"
-  type: "Contributed"
-contrib1:
-  event: "Placeholder title"
-  author: "Placeholder presenter"
+  type: "Invited"
+invited2:
+  event: "XHuang"
+  title: "Incorporating Dynamic Structures into Pre-trained Language Models"
   start: "10:30 AM - 11:00 AM"
+  type: "Invited"
+contrib1:
+  event: "Supernet Training for Federated Image Classification"
+  author: "Taehyeon Kim"
+  start: "11:00 AM - 11:15 AM"
   type: "Contributed"
 contrib2:
-  event: "Placeholder title"
-  author: "Placeholder presenter"
-  start: "11:00 AM - 11:30 AM"
+  event: "Achieving High TinyML Accuracy through Selective Cloud Interactions"
+  author: "Anil Kag"
+  start: "11:15 AM - 11:30 AM"
   type: "Contributed"
 contrib3:
-  event: "Placeholder title"
-  author: "Placeholder presenter"
-  start: "11:30 AM - 12:00 PM"
+  event: "Triangular Dropout: Variable Network Width without Retraining"
+  author: "Edward Staley"
+  start: "11:30 AM - 11:45 AM"
   type: "Contributed"
-panel1:
-  event: ""
-  speakers: "All invited speakers"
-  start: "12:00 PM - 1:00 PM"
-  type: "Panel"
+contrib4:
+  event: "A Theoretical View on Sparsely Activated Networks"
+  author: "Nishanth Dikkala"
+  start: "11:45 AM - 12:00 PM"
+  type: "Contributed"
 sess1:
-  event: "Lunch break"
-  start: "1.00 PM - 2:15 PM"
+  event: "Lunch Break"
+  start: "12.00 PM - 13:30 PM"
   type: "Session"
-Sun:
+panel1:
+  event: "Dynamic Neural Network: Present and Future"
+  speakers: "Tal Schuster, Andrea Gesmundo, Razvan Pascanu, Yanzhi Wang"
+  start: "13:30 PM - 14:30 PM"
+  type: "Panel"
+Keynote2:
   event: "Sun"
-  title: "Placeholder presentation title"
-  start: "2:15 AM - 3:00 PM"
-  type: "Invited"
+  title: "Organizing memories for generalization in complementary learning systems"
+  start: "14:30 PM - 15:15 PM"
+  type: "Keynote"
 sess2:
   event: "Poster Session"
-  start: "3.00 PM - 4:00 PM"
+  start: "15.15 PM - 16:15 PM"
   type: "Session"
-contrib4:
-  event: "Placeholder title"
-  author: "Placeholder presenter"
-  start: "4:00 PM - 4:30 PM"
-  type: "Contributed"
+invited3:
+  event: "Locatello"
+  title: "TBD"
+  start: "16:15 PM - 16:45 PM"
+  type: "Invited"
 contrib5:
-  event: "Placeholder title"
-  author: "Placeholder presenter"
-  start: "4:30 PM - 5:00 PM"
+  event: "Does Continual Learning Equally Forget All Parameters?"
+  author: "Haiyan Zhao"
+  start: "16:45 AM - 17:00 PM"
   type: "Contributed"
 contrib6:
-  event: "Placeholder title"
-  author: "Placeholder presenter"
-  start: "5:00 PM - 5:30 PM"
+  event: "PA-GNN: Parameter-Adaptive Graph Neural Networks"
+  author: "Yuxin Yang"
+  start: "17:00 PM - 17:15 PM"
   type: "Contributed"
-contrib6:
-  event: "Placeholder title"
-  author: "Placeholder presenter"
-  start: "5:30 PM - 6:00 PM"
+contrib7:
+  event: "Slimmable Quantum Federated Learning"
+  author: "Joongheon Kim"
+  start: "17:15 PM - 17:30 PM"
   type: "Contributed"
-closing:
-  event: "Mixer & Happy Hour"
-  start: "6:00 PM - 7:00 PM"
-  type: "General"
+contrib8:
+  event: "Sparsifying Transformer Models with Trainable Representation Pooling"
+  author: "Michał Pietruszka"
+  start: "17:30 PM - 17:45 PM"
+  type: "Contributed"
+contrib9:
+  event: "Play It Cool: Dynamic Shifting Prevents Thermal Throttling"
+  author: "Yang Zhou"
+  start: "17:45 PM - 18:00 PM"
+  type: "Contributed"
+contrib10:
+  event: "Efficient Sparsely Activated Transformers"
+  author: "Salar Latifi"
+  start: "18:00 PM - 18:15 PM"
+  type: "Contributed"
+contrib11:
+  event: "Sparse Relational Reasoning with Object-centric Representations"
+  author: "Alex F Spies"
+  start: "18:15 PM - 18:30 PM"
+  type: "Contributed"
