@@ -9,7 +9,7 @@ Keynote1:
   type: "Keynote"
 invited1:
   event: "Tuytelaars"
-  title: "TBA"
+  title: "Where to look next ? Different strategies for image exploration under partial observability."
   start: "10:00 AM - 10:30 AM"
   type: "Invited"
 invited2:
@@ -57,7 +57,7 @@ sess2:
   type: "Session"
 invited3:
   event: "Locatello"
-  title: "TBA"
+  title: "Deriving modular inductive biases from the principle of independent mechanisms"
   start: "16:15 PM - 16:45 PM"
   type: "Invited"
 contrib5:
@@ -95,3 +95,7 @@ contrib11:
   author: "Alex F Spies"
   start: "18:15 PM - 18:30 PM"
   type: "Contributed"
+closing:
+  event: "Closing Remarks and Happy Hour"
+  start: "18.30 PM - 19:30 PM"
+  type: "Session"
