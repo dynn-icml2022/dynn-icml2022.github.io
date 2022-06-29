@@ -18,13 +18,13 @@ invited2:
   start: "10:30 AM - 11:00 AM"
   type: "Invited"
 contrib1:
-  event: "Supernet Training for Federated Image Classification"
-  author: "Taehyeon Kim"
+  event: "Does Continual Learning Equally Forget All Parameters?"
+  author: "Haiyan Zhao"
   start: "11:00 AM - 11:15 AM"
   type: "Contributed"
 contrib2:
-  event: "Achieving High TinyML Accuracy through Selective Cloud Interactions"
-  author: "Anil Kag"
+  event: "PA-GNN: Parameter-Adaptive Graph Neural Networks"
+  author: "Yuxin Yang"
   start: "11:15 AM - 11:30 AM"
   type: "Contributed"
 contrib3:
@@ -61,13 +61,13 @@ invited3:
   start: "16:15 PM - 16:45 PM"
   type: "Invited"
 contrib5:
-  event: "Does Continual Learning Equally Forget All Parameters?"
-  author: "Haiyan Zhao"
+  event: "Supernet Training for Federated Image Classification"
+  author: "Taehyeon Kim"
   start: "16:45 AM - 17:00 PM"
   type: "Contributed"
 contrib6:
-  event: "PA-GNN: Parameter-Adaptive Graph Neural Networks"
-  author: "Yuxin Yang"
+  event: "Achieving High TinyML Accuracy through Selective Cloud Interactions"
+  author: "Anil Kag"
   start: "17:00 PM - 17:15 PM"
   type: "Contributed"
 contrib7:
