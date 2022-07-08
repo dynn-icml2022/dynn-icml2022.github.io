@@ -16,13 +16,14 @@ share-img: "https://dynn-icml2022.github.io/img/logo.jpg"
             <b>{{ p[1].title }}</b>
             <br>
             <i>{{ p[1].authors }}</i>
-            <!-- {% if p[1].alt_url == "" %}
-              (<a href="{{ site.baseurl }}/papers/DynNN_{{ p[0] }}.pdf">PDF</a>)
-            {% elsif p[1].alt_url == "NONE" %}
-              (PDF not available)
-            {% else %}
-              (<a href="{{ p[1].alt_url }}">PDF</a>)
-            {% endif %} -->
+            {% if p[1].pdf == "available" %}
+              (<a href="{{ site.baseurl }}/papers/paper_{{ p[0] }}.pdf">[PDF]</a>)
+            {% endif %}
+            {% if p[1].poster == "available" %}
+              (<a href="{{ site.baseurl }}/posters/paper_{{ p[0] }}.pdf">[Poster]</a>)
+            {% endif %}
+            
+
         </li>
     {% endfor %}
 
@@ -41,13 +42,12 @@ share-img: "https://dynn-icml2022.github.io/img/logo.jpg"
             <b>{{ p[1].title }}</b>
             <br>
             <i>{{ p[1].authors }}</i>
-            <!-- {% if p[1].alt_url == "" %}
-              (<a href="{{ site.baseurl }}/papers/DynNN_{{ p[0] }}.pdf">PDF</a>)
-            {% elsif p[1].alt_url == "NONE" %}
-              (PDF not available)
-            {% else %}
-              (<a href="{{ p[1].alt_url }}">PDF</a>)
-            {% endif %} -->
+            {% if p[1].pdf == "available" %}
+              (<a href="{{ site.baseurl }}/papers/paper_{{ p[0] }}.pdf">[PDF]</a>)
+            {% endif %}
+            {% if p[1].poster == "available" %}
+              (<a href="{{ site.baseurl }}/posters/paper_{{ p[0] }}.pdf">[Poster]</a>)
+            {% endif %}
         </li>
     {% endfor %}
 
