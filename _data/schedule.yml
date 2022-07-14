@@ -76,8 +76,8 @@ contrib7:
   start: "17:15 PM - 17:30 PM"
   type: "Contributed"
 contrib8:
-  event: "Sparsifying Transformer Models with Trainable Representation Pooling"
-  author: "Michał Pietruszka"
+  event: "Sparse Relational Reasoning with Object-centric Representations"
+  author: "Alex F Spies"
   start: "17:30 PM - 17:45 PM"
   type: "Contributed"
 contrib9:
@@ -90,12 +90,7 @@ contrib10:
   author: "Salar Latifi"
   start: "18:00 PM - 18:15 PM"
   type: "Contributed"
-contrib11:
-  event: "Sparse Relational Reasoning with Object-centric Representations"
-  author: "Alex F Spies"
-  start: "18:15 PM - 18:30 PM"
-  type: "Contributed"
 closing:
   event: "Closing Remarks and Happy Hour"
-  start: "18.30 PM - 19:30 PM"
+  start: "18.15 PM - 8:00 PM"
   type: "Session"
