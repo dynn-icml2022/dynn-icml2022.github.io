@@ -18,7 +18,7 @@ paper_3:
 
 paper_4:
   authors: "Corban Rivera (JHU/APL)*; Chace Ashcraft (JHU/APL); Katie Popek (JHU/APL); Edward Staley (JHU/APL); Kapil Katyal (Johns Hopkins University)"
-  title: "Discovering Generalizable Deep Network Modularity"
+  title: "Learning Modularity for Generalizable Robotic Behaviors"
   pdf: ""
   poster: ""
 
@@ -79,7 +79,7 @@ paper_13:
 
 paper_14:
   authors: "Lianke Qin (UCSB)*; Somdeb Sarkhel (Adobe); Zhao Song (Adobe Research); Danyang Zhuo (Duke University)"
-  title: "Single, Practical and Fast Dynamic Truncation Kernel Multiplication"
+  title: "Simple, Practical and Fast Dynamic Truncation Kernel Multiplication"
   pdf: ""
   poster: ""
 
