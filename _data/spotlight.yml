@@ -1,54 +1,65 @@
 paper_1:
   authors: "Taehyeon Aaron Kim (KAIST)*; Se-Young Yun (KAIST)"
   title: "Supernet Training for Federated Image Classification"
-  alt_url: ""
+  pdf: "available"
+  poster: ""
 
 paper_2:
   authors: "Anil Kag (Boston University)*; Igor Fedorov (Arm Research); Aditya Gangrade (Boston University); Paul Whatmough (Arm Research); Venkatesh Saligrama (Boston University)"
   title: "Achieving High TinyML Accuracy through Selective Cloud Interactions"
-  alt_url: ""
+  pdf: "available"
+  poster: ""
 
 paper_3:
   authors: "Edward W Staley (JHUAPL)*; Jared Markowitz (Johns Hopkins University Applied Physics Laboratory)"
   title: "Triangular Dropout: Variable Network Width without Retraining"
-  alt_url: ""
+  pdf: "available"
+  poster: ""
 
 paper_4:
   authors: "Cenk Baykal (Google Research); Nishanth Dikkala (Google Research)*; Rina Panigrahy (Google); Cyrus Rashtchian (Google); Xin Wang (Google)"
   title: "A Theoretical View on Sparsely Activated Networks"
-  alt_url: ""
+  pdf: "available"
+  poster: ""
 
 paper_5:
   authors: "Haiyan Zhao (University of Technology Sydney)*; Tianyi Zhou (University of Washington); Guodong Long (University of Technology Sydney); Jing Jiang (University of Technology Sydney); Chengqi Zhang (University of Technology Sydney)"
   title: "Does Continual Learning Equally Forget All Parameters?"
-  alt_url: ""
+  pdf: "available"
+  poster: ""
 
 paper_6:
   authors: "Yuxin Yang (Tsinghua University)*; Yitao Liang (Peking University); Muhan Zhang (Peking University)"
   title: "PA-GNN: Parameter-Adaptive Graph Neural Networks"
-  alt_url: ""
+  pdf: "available"
+  poster: ""
 
 paper_7:
   authors: "Won Joon Yun (Korea University); Jae Pyoung Kim (Korea University); Soyi Jung (Hallym Univeristy); Jihong Park (Deakin University); Mehdi Bennis (University of Oulu); Joongheon Kim (Korea University, School of Electrical Engineering)*"
   title: "Slimmable Quantum Federated Learning"
-  alt_url: ""
+  pdf: "available"
+  poster: ""
 
 paper_8:
   authors: "Michał Pietruszka (Jagiellonian University)*; Łukasz Borchmann (Applica.ai); Łukasz Garncarek (Applica.ai)"
   title: "Sparsifying Transformer Models with Trainable Representation Pooling"
-  alt_url: ""
+  pdf: ""
+  poster: ""
 
 paper_9:
   authors: "Yang  Zhou  (University of Texas at Austin )*; Feng Liang (The University of Texas at Austin); Ting-Wu Chin (Carnegie Mellon University); Diana Marculescu (The University of Texas at Austin)"
   title: "Play It Cool: Dynamic Shifting Prevents Thermal Throttling"
-  alt_url: ""
+  pdf: "available"
+  poster: ""
 
 paper_10:
   authors: "Salar Latifi (University of Michigan)*; Saurav Muralidharan (NVIDIA); Michael Garland (NVIDIA)"
   title: "Efficient Sparsely Activated Transformers"
-  alt_url: ""
+  pdf: "available"
+  poster: ""
 
 paper_11:
   authors: "Alex F Spies (Imperial College London)*"
   title: "Sparse Relational Reasoning with Object-centric Representations"
-  alt_url: ""
+  pdf: ""
+  poster: ""
