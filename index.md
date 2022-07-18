@@ -102,6 +102,23 @@ The 1st Dynamic Neural Networks workshop will be a [hybrid workshop at ICML 2022
 </div>
 <hr>
 
+# Reviewers
+<!-- prettier-ignore -->
+<!-- original list class in the template
+  <ul class="list-group list-group-flush">
+      <li class="list-group-item col-xs-6 col-sm-4 col-md-3">{{ p }}</li> 
+<h3>Confirmed:</h3>-->
+<div class="container">
+  <ul class="mb-3">
+    {% for p in site.data.pc.reviewers %}
+      <li class="mb-3">{{ p }}</li>
+    {% endfor %}
+  </ul>
+</div>
+<hr>
+
+
+
 <!-- # Related Venues
 
 <div class="container" style="margin-bottom: 10px;"></div>
