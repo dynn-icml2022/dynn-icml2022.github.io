@@ -6,54 +6,56 @@ people: [
 "Yoshitomo Matsubara, Amazon Alexa AI",
 "Thomas Verelst, KU Leuven"]
 
-reviewers: [Alessio Devoto, Sapienza Università di Roma
-Alessio Verdone, La Sapienza
-André Susano Pinto, Google Research
-Andrea Bacciu, Sapienza University of Rome
-Andrea Mastropietro, Sapienza University of Rome
-Andreas Steiner, Google Brain
-Bartosz Wójcik, Jagiellonian University
-Bartosz Zieliński, Jagiellonian University
-Basil Mustafa, Google
-Battista Biggio, University of Cagliari
-Canwen Xu, UC San Diego
-Claudio Gallicchio, University of Pisa
-Daniel Marczak, Warsaw University of Technology
-Fabrizio Silvestri, Sapienza
-Filip Szatkowski, Warsaw University of Technology
-Giulia Cassarà, Sapienza University of Rome
-Ilya Tolstikhin, Google
-Indro Spinelli, Sapienza University of Rome
-Irene Tallini, Sapienza University of Rome
-Jary Pomponi, Università di Roma Sapienza
-Jieyu Lin, University of Toronto
-Joan Puigcerver, Google
-Kamil Deja, Warsaw University of Technology
-Karol Piczak, Jagiellonian University
-Konrad Cop, Warsaw University of Technology
-Lev Telyatnikov, Sapienza University
-Maciej Szymkowski, Warsaw University of Technology
-Maciej Wołczyk, Jagiellonian University
-Maciej Zieba, Wroclaw University of Science and Technology
-Manuel Roveri, Politecnico di Milano
-Massimo Panella, University of Rome Sapienza
-Mateusz Ostaszewski, Institute of Theoretical and Applied Informatics
-Michał Bortkiewicz, Warsaw University of Technology
-Michał Sadowski, Jagiellonian University
-Michele Scarpiniti, Sapienza University of Rome
-Mohanad Odema, University of California Irvine
-Monika Wysoczańska, Warsaw University of Technology
-Paweł Wawrzyński, Warsaw University of Technology
-Philippe Tillet, OpenAI
-Przemysław Spurek, Jagiellonian University
-Sai Qian Zhang, Harvard University
-Stanislaw Pawlak, Warsaw University of Technology
-Surat Teerapittayanon, Harvard University
-Thomas Unterthiner, Google Research
-Thomas Verelst, KU Leuven
-Utku Evci, Google
-Valerio Marsocci, Sapienza University of Rome
-Witold Oleszkiewicz, Warsaw University of Technology
-Wojciech Masarczyk, Warsaw University of Technology
-Xin Dong, Harvard Univeristy
-Yigitcan Kaya, University of Maryland]
+reviewers: [
+"Alessio Devoto, Sapienza Università di Roma",
+"Alessio Verdone, La Sapienza",
+"André Susano Pinto, Google Research",
+"Andrea Bacciu, Sapienza University of Rome",
+"Andrea Mastropietro, Sapienza University of Rome",
+"Andreas Steiner, Google Brain",
+"Bartosz Wójcik, Jagiellonian University",
+"Bartosz Zieliński, Jagiellonian University",
+"Basil Mustafa, Google",
+"Battista Biggio, University of Cagliari",
+Canwen Xu, UC San Diego",
+"Claudio Gallicchio, University of Pisa",
+"Daniel Marczak, Warsaw University of Technology",
+"Fabrizio Silvestri, Sapienza",
+"Filip Szatkowski, Warsaw University of Technology",
+"Giulia Cassarà, Sapienza University of Rome",
+Ilya Tolstikhin, Google",
+"Indro Spinelli, Sapienza University of Rome",
+"Irene Tallini, Sapienza University of Rome",
+"Jary Pomponi, Università di Roma Sapienza",
+"Jieyu Lin, University of Toronto",
+"Joan Puigcerver, Google",
+"Kamil Deja, Warsaw University of Technology",
+"Karol Piczak, Jagiellonian University",
+"Konrad Cop, Warsaw University of Technology",
+"Lev Telyatnikov, Sapienza University",
+"Maciej Szymkowski, Warsaw University of Technology",
+"Maciej Wołczyk, Jagiellonian University",
+"Maciej Zieba, Wroclaw University of Science and Technology",
+"Manuel Roveri, Politecnico di Milano",
+"Massimo Panella, University of Rome Sapienza",
+"Mateusz Ostaszewski, Institute of Theoretical and Applied Informatics",
+"Michał Bortkiewicz, Warsaw University of Technology",
+"Michał Sadowski, Jagiellonian University",
+"Michele Scarpiniti, Sapienza University of Rome",
+"Mohanad Odema, University of California Irvine",
+"Monika Wysoczańska, Warsaw University of Technology",
+"Paweł Wawrzyński, Warsaw University of Technology",
+"Philippe Tillet, OpenAI",
+"Przemysław Spurek, Jagiellonian University",
+"Sai Qian Zhang, Harvard University",
+"Stanislaw Pawlak, Warsaw University of Technology",
+"Surat Teerapittayanon, Harvard University",
+"Thomas Unterthiner, Google Research",
+"Thomas Verelst, KU Leuven",
+"Utku Evci, Google",
+"Valerio Marsocci, Sapienza University of Rome",
+"Witold Oleszkiewicz, Warsaw University of Technology",
+"Wojciech Masarczyk, Warsaw University of Technology",
+"Xin Dong, Harvard Univeristy",
+"Yigitcan Kaya, University of Maryland",
+]
