@@ -87,8 +87,9 @@ paper_14:
 paper_15:
   authors: "Tal Schuster (Google)*; Adam Fisch (MIT); Jai Gupta (Google); Mostafa Dehghani (Google Brain); Dara Bahri (Google); Vinh Q Tran (Google); Yi Tay (Google); Donald Metzler (Google)"
   title: " Confident Adaptive Language Modeling"
-  pdf: ""
+  pdf: "url"
   poster: ""
+  url: "https://arxiv.org/pdf/2207.07061.pdf"
 
 paper_16:
   authors: "ZIHAO DENG (Washington University in St. Louis)*; Zee Fryer (Google Research); Brendan Juba (Washington University in St Louis); Rina Panigrahy (Google); Xin Wang (Google)"

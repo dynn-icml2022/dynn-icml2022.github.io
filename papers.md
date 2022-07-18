@@ -18,6 +18,8 @@ share-img: "https://dynn-icml2022.github.io/img/logo.jpg"
             <i>{{ p[1].authors }}</i>
             {% if p[1].pdf == "available" %}
               [<a href="{{ site.baseurl }}/spapers/{{ p[0] }}.pdf">PDF</a>]
+            {% elsif p[1].pdf == "url" %}
+              [<a href={{p[1].url}}>PDF</a>]
             {% endif %}
             {% if p[1].poster == "available" %}
               [<a href="{{ site.baseurl }}/sposters/{{ p[0] }}.pdf">Poster</a>]
@@ -44,6 +46,8 @@ share-img: "https://dynn-icml2022.github.io/img/logo.jpg"
             <i>{{ p[1].authors }}</i>
             {% if p[1].pdf == "available" %}
               [<a href="{{ site.baseurl }}/papers/{{ p[0] }}.pdf">PDF</a>]
+            {% elsif p[1].pdf == "url" %}
+              [<a href={{p[1].url}}>PDF</a>]
             {% endif %}
             {% if p[1].poster == "available" %}
               [<a href="{{ site.baseurl }}/posters/{{ p[0] }}.pdf">Poster</a>]
