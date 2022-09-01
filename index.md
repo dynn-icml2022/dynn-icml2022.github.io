@@ -17,6 +17,7 @@ The 1st Dynamic Neural Networks workshop will be a [hybrid workshop at ICML 2022
 
 
 **Announcements**
+* The recording of our workshop is [available](https://icml.cc/virtual/2022/workshop/13451) now!
 * Workshop schedule is [announced](https://dynn-icml2022.github.io/schedule/)!
 * Accepted papers (poster and oral presentations) are [announced](https://dynn-icml2022.github.io/papers/). Congratulations to all authors!
 * [Microsoft CMT Submission portal](https://cmt3.research.microsoft.com/DyNN2022/) is now open! 
